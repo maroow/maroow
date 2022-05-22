@@ -1,5 +1,9 @@
 <h1> </h1>
-<h1 align="center"> electrical engineering student at UAS Constance </h1> 
+<h1 align="center"> electrical engineering student at 
+    <a href="https://www.htwg-konstanz.de/hochschule/fakultaeten/elektro-und-informationstechnik/uebersicht/">
+        UAS Constance 
+    </a>
+</h1> 
 
 - currently learning **CoAP | MQTT | REST API | RTOS | SQL**
 
