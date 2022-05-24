@@ -5,7 +5,8 @@
     </a>
 </h1> 
 
-- currently learning **CoAP | MQTT | REST API | RTOS | SQL**
+- high interest in **Sensorsystems | Test & Measurement Automation with VISA via SCPI**
+- currently learning **CoAP | MQTT | REST API | RTOS | SQL | MongoDB**
 
 <h3 align="left">Languages:</h3>
 <p align="left"> 
