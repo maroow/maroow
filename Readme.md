@@ -5,8 +5,8 @@
     </a>
 </h1> 
 
-- high interest in **Sensorsystems | Test & Measurement Automation with VISA via SCPI**
-- currently learning **CoAP | MQTT | REST API | RTOS | SQL | MongoDB**
+- high interest in **Sensorsystems | Test & Measurement Automation with SCPI via VISA**
+- currently learning **CoAP | MQTT | REST API | RTOS | SQL**
 
 <h3 align="left">Languages:</h3>
 <p align="left"> 
@@ -59,6 +59,7 @@
 </p>
 
 <h3 align="left">Tools & Technologies:</h3> 
+<p align="left">
     <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
         <img src="icons/vscode-original.svg" alt="Visual Studio Code" width="40" height="40"/>
     </a>
@@ -80,3 +81,10 @@
     <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
         <img src="icons/NET_Logo.svg" alt="dotnet" width="40" height="40"/> 
     </a>
+    <a href="https://mongoosejs.com" target="_blank" rel="noreferrer">
+        <img src="icons/mongoose-original.svg" width="40" height="40">
+    </a>
+    <a href="https://www.mongodb.com/de-de" target="_blank" rel="noreferrer">
+        <img src="icons/mongodb-original.svg" width="40" height="40">
+    </a>
+</p>
