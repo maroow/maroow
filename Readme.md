@@ -1,12 +1,16 @@
 <h1> </h1>
-<h1 align="center"> electrical engineering student at 
-    <a href="https://www.htwg-konstanz.de/hochschule/fakultaeten/elektro-und-informationstechnik/uebersicht/">
-        UAS Constance 
-    </a>
+<h1 align="center"> Hi there, I'm Marc :wave:
 </h1> 
 
-- high interest in **Sensorsystems | Test & Measurement Automation with SCPI via VISA**
-- currently learning **CoAP | MQTT | REST API | RTOS | SQL**
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=maroow&show_icons=true&theme=dark" />
+
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maroow&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)-->
+
+<h1> </h1>
+- electrical engineering student at <a href="https://www.htwg-konstanz.de/hochschule/fakultaeten/elektro-und-informationstechnik/uebersicht/"> UAS Constance </a> <br>
+- high interest in **Sensorsystems | Test & Measurement Automation with SCPI via VISA** <br>
+- currently learning **CoAP | MQTT | REST API | RTOS | SQL** 
+<h1> </h1>
 
 <h3 align="left">Languages:</h3>
 <p align="left"> 
@@ -32,6 +36,7 @@
         <img src="icons/java-original.svg" alt="java" width="40" height="40"/> 
     </a> 
 </p>
+<h1> </h1>
 
 <h3 align="left">Plattforms:</h3>
 <p align="left">
@@ -57,6 +62,7 @@
         <img src="icons/STMicroelectronics_logo.svg" alt="STM32" width="40" height="40"/>
     </a>
 </p>
+<h1> </h1>
 
 <h3 align="left">Tools & Technologies:</h3> 
 <p align="left">
