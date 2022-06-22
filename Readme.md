@@ -7,10 +7,13 @@
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maroow&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <h1> </h1>
+
 - electrical engineering student at <a href="https://www.htwg-konstanz.de/hochschule/fakultaeten/elektro-und-informationstechnik/uebersicht/"> UAS Constance </a> <br>
 - high interest in **Sensorsystems | Test & Measurement Automation with SCPI via VISA** <br>
-- currently learning **CoAP | MQTT | REST API | RTOS | SQL** 
+- currently learning **CoAP | MQTT | REST API | RTOS | SQL**
+ 
 <h1> </h1>
+
 
 <h3 align="left">Languages:</h3>
 <p align="left"> 
