@@ -2,7 +2,7 @@
 <h1 align="center"> Hi there, I'm Marc :wave:
 </h1> 
 
-<img align="left" src="https://github-readme-stats-maroow.vercel.app/api?username=maroow&show_icons=true&theme=dark&count_private=true" width="47%"/>
+<img align="left" src="https://github-readme-stats-maroow.vercel.app/api?username=maroow&show_icons=true&theme=dark&count_private=true" width="50%" />
 <img src="https://github-readme-stats-maroow.vercel.app/api/top-langs?username=maroow&show_icons=true&theme=dark&layout=compact&hide=makefile&lang_count=8"/>
 <h1> </h1>
 
