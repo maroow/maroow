@@ -2,9 +2,10 @@
 <h1 align="center"> Hi there, I'm Marc :wave:
 </h1> 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=maroow&show_icons=true&theme=dark&count_private=true" />
-<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maroow&show_icons=true&theme=dark&langs_count=4" />-->
+<img align="left" src="https://github-readme-stats-maroow.vercel.app/api?username=maroow&show_icons=true&theme=dark&count_private=true" />
+<img src="https://github-readme-stats-maroow.vercel.app/api/top-langs?username=maroow&show_icons=true&theme=dark&layout=compact&hide=makefile&lang_count=8" width=40% />
 <h1> </h1>
+
 
 - electrical engineering student at <a href="https://www.htwg-konstanz.de/hochschule/fakultaeten/elektro-und-informationstechnik/uebersicht/"> UAS Constance </a> <br>
 - high interest in **Sensorsystems | Test & Measurement Automation with SCPI via VISA** <br>
