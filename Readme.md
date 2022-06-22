@@ -2,7 +2,7 @@
 <h1 align="center"> Hi there, I'm Marc :wave:
 </h1> 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=maroow&show_icons=true&theme=dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=maroow&show_icons=true&theme=dark&count_private=true" />
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maroow&show_icons=true&theme=dark&langs_count=4" />-->
 <h1> </h1>
 
