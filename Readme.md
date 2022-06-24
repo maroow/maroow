@@ -92,4 +92,7 @@
     <a href="https://www.mongodb.com/de-de" target="_blank" rel="noreferrer">
         <img src="icons/mongodb-original.svg" width="40" height="40">
     </a>
+    <a href="https://mongoose.ws" target="_blank" rel="noreferrer">
+        <img src="icons/mongoose_logo.svg" width="40" height="40">
+    </a>
 </p>
