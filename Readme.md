@@ -31,12 +31,12 @@
     <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
         <img src="icons/matlab-original.svg" alt="matlab" width="40" height="40"/> 
     </a>
-    <a href="https://www.latex-project.org" target="_blank" rel="noreferrer">
-        <img src="icons/latex-original.svg" alt="LaTeX" width="40" height="40"/>
-    </a>
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
         <img src="icons/java-original.svg" alt="java" width="40" height="40"/> 
     </a> 
+    <a href="https://www.latex-project.org" target="_blank" rel="noreferrer">
+        <img src="icons/latex-original.svg" alt="LaTeX" width="" height="40"/>
+    </a>
 </p>
 <h1> </h1>
 
