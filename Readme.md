@@ -58,7 +58,7 @@
         <img src="icons/arduino-original.svg" alt="Arduino" width="40" height="40"/>
     </a>
     <a href="https://www.microchip.com/en-us/products/microcontrollers-and-microprocessors/8-bit-mcus/avr-mcus" target="_blank" rel="noreferrer">
-        <img src="icons/Avr_Original.svg" alt="AVR" width="40" height="40"/>
+        <img src="icons/Avr_blau.svg" alt="AVR" width="40" height="40"/>
     </a>
     <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html" target="_blank" rel="noreferrer">
         <img src="icons/STMicroelectronics_logo.svg" alt="STM32" width="40" height="40"/>
