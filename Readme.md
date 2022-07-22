@@ -91,9 +91,9 @@
         <img src="icons/NET_Logo.svg" alt="dotnet" width="40" height="40"/> 
     </a>
     <a href="https://www.mongodb.com/de-de" target="_blank" rel="noreferrer">
-        <img src="icons/mongodb-original.svg" width="40" height="40">
+        <img src="icons/mongodb-original.svg" alt="MongoDB" width="40" height="40">
     </a>
     <a href="https://mongoose.ws" target="_blank" rel="noreferrer">
-        <img src="icons/mongoose_logo.svg" width="40" height="40">
+        <img src="icons/mongoose_logo.svg" alt="Mongoose" width="40" height="40">
     </a>
 </p>
