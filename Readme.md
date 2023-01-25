@@ -2,8 +2,8 @@
 <h1 align="center"> Hi there, I'm Marc :wave:
 </h1> 
 
-<img align="left" src="https://github-readme-stats-maroow.vercel.app/api?username=maroow&show_icons=true&theme=dark&count_private=true" width="56%" />
-<img src="https://github-readme-stats-maroow.vercel.app/api/top-langs?username=maroow&show_icons=true&theme=dark&layout=compact&hide=makefile,batchfile&langs_count=10"/>
+<img align="left" src="https://github-readme-stats-git-master-maroow.vercel.app/api?username=maroow&show_icons=true&theme=dark&count_private=true" width="56%" />
+<img src="https://github-readme-stats-git-master-maroow.vercel.app/api/top-langs?username=maroow&show_icons=true&theme=dark&layout=compact&hide=makefile,batchfile&langs_count=10"/>
 <h1> </h1>
 
 
