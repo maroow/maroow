@@ -3,7 +3,7 @@
 </h1> 
 
 <img align="left" src="https://github-readme-stats-git-master-maroow.vercel.app/api?username=maroow&show_icons=true&theme=dark&count_private=true"/>
-<img src="https://github-readme-stats-git-master-maroow.vercel.app/api/top-langs?username=maroow&show_icons=true&theme=dark&hide=makefile,batchfile,HTML&langs_count=10"/>
+<img src="https://github-readme-stats-git-master-maroow.vercel.app/api/top-langs?username=maroow&show_icons=true&layout=compact&theme=dark&hide=makefile,batchfile,HTML&langs_count=10"/>
 <h1> </h1>
 
 
