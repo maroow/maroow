@@ -9,7 +9,7 @@
 
 - electrical engineering student at <a href="https://www.htwg-konstanz.de/hochschule/fakultaeten/elektro-und-informationstechnik/uebersicht/"> UAS Constance </a> <br>
 - member of <a href="http://elaketric.de"> eLaketric Racing Team </a>  &emsp; <a href="https://www.instagram.com/elaketric/"> <img src="icons/Instagram-Icon.png" alt="Instagram" width="40" height="40"/> </a>
-- high interest in **Sensorsystems | Test & Measurement Automation with SCPI via VISA** <br>
+- high interest in **Sensorsystems | Test & Measurement Automation** <br>
 - currently learning **CoAP | MQTT | REST API | RTOS | SQL**
  
 <h1> </h1>
